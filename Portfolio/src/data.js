@@ -30,11 +30,16 @@ import Project6 from './assets/img/projects/p6.webp';
 import SkillImg1 from './assets/img/skills/html5.png';
 import SkillImg2 from './assets/img/skills/css3.png';
 import SkillImg3 from './assets/img/skills/js.png';
-import SkillImg4 from './assets/img/skills/reactjs.png';
-import SkillImg5 from './assets/img/skills/nextjs.png';
-import SkillImg6 from './assets/img/skills/nodejs.png';
-import SkillImg7 from './assets/img/skills/git.png';
-import SkillImg8 from './assets/img/skills/figma.png';
+import SkillImg4 from './assets/img/skills/bootstrap.png';
+import SkillImg5 from './assets/img/skills/reactjs.png';
+import SkillImg6 from './assets/img/skills/flutter.png';
+import SkillImg7 from './assets/img/skills/linux.png';
+import SkillImg8 from './assets/img/skills/c.png';
+import SkillImg9 from './assets/img/skills/java.png';
+import SkillImg10 from './assets/img/skills/php.png';
+import SkillImg11 from './assets/img/skills/nodejs.png';
+import SkillImg12 from './assets/img/skills/mysql.png';
+import SkillImg13 from './assets/img/skills/git.png';
 
 // testimonial images
 import TestiImage1 from './assets/img/testimonials/testimonial-1.webp';
@@ -188,6 +193,22 @@ export const skills = [
   {
     image: SkillImg8,
   },
+  {
+    image: SkillImg9,
+  },
+  {
+    image: SkillImg10,
+  },
+  {
+    image: SkillImg11,
+  },
+  {
+    image: SkillImg12,
+  },
+  {
+    image: SkillImg13,
+  },
+
 ];
 
 // services

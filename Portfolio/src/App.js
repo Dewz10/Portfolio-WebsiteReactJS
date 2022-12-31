@@ -6,6 +6,8 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Interest from './components/Interest';
 import About from './components/About';
+import Skills from './components/Skills';
+
 const App = () => {
   return (
     <div>
@@ -13,6 +15,7 @@ const App = () => {
       <Hero />
       <Interest />
       <About />
+      <Skills />
       <div style={{height: '2000px'}}></div>
     </div>
   )

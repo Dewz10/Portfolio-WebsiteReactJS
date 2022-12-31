@@ -26,7 +26,7 @@ const Hero = () => {
             <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all">Resume</button>
           </div>
           {/*right sild*/}
-          <div className="hidden lg:flex flex-1 justify-end items-end h-full">
+          <div className="hidden lg:flex flex-1 justify-end items-end">
             <img src={ManImg} alt="" />
           </div>
         </div>
