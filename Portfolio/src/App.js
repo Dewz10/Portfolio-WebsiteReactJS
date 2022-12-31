@@ -1,4 +1,5 @@
 import React from 'react';
+import Interest from './components/Interest';
 
 // import components
 import Header from './components/Header';
@@ -9,6 +10,7 @@ const App = () => {
     <div>
       <Header/>
       <Hero />
+      <Interest />
       <div style={{height: '2000px'}}></div>
     </div>
   )

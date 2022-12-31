@@ -13,11 +13,10 @@ import {
 } from 'react-icons/fi';
 
 // companies icons
-import FreelancerBrandIcon from './assets/img/brands/freelancer.png';
-import UpworkBrandIcon from './assets/img/brands/upwork.png';
-import FiverBrandIcon from './assets/img/brands/fiverr.png';
-import BehanceBrandIcon from './assets/img/brands/behance.png';
-import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
+import FullStackIcon from './assets/img/interest/full.png';
+import FrontEndIcon from './assets/img/interest/front.png';
+import MobileIcon from './assets/img/interest/mobile.png';
+
 
 // projects images
 import Project1 from './assets/img/projects/p1.webp';
@@ -91,27 +90,20 @@ export const social = [
 ];
 
 // companies
-export const brands = [
+export const interests = [
   {
-    img: FreelancerBrandIcon,
+    img: FullStackIcon,
     href: '',
   },
   {
-    img: UpworkBrandIcon,
+    img: FrontEndIcon,
     href: '',
   },
   {
-    img: FiverBrandIcon,
+    img: MobileIcon,
     href: '',
   },
-  {
-    img: BehanceBrandIcon,
-    href: '',
-  },
-  {
-    img: DribbbleBrandIcon,
-    href: '',
-  },
+  
 ];
 
 // projects
