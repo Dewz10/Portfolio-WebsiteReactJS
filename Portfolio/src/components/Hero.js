@@ -20,7 +20,7 @@ const Hero = () => {
             </h1>
             <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left">
               I am currently a 3rd-year student at Kasetsart University
-              Kamphaeng Saen Campus. I'm interested in Full-Stack, Font-End and
+              Kamphaeng Saen Campus. I'm interested in Full-Stack, Front-End and
               Mobile Application Dev.
             </p>
             <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all">Resume</button>
