@@ -9,7 +9,7 @@ const Socials = () => {
         return (
           <li className="flex justify-center items-center text-accent">
             <a className="text-base" href={item.href}>
-                {item.icon}
+              {item.icon}
             </a>
           </li>
         );
