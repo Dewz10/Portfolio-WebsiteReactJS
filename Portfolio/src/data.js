@@ -35,7 +35,7 @@ import SkillImg13 from './assets/img/skills/git.png';
 // testimonial images
 import TestiImage1 from './assets/img/testimonials/testimonial-1.jpg';
 import TestiImage2 from './assets/img/testimonials/testimonial-2.jpg';
-import TestiImage3 from './assets/img/testimonials/testimonial-3.png';
+import TestiImage3 from './assets/img/testimonials/testimonial-3.jpg';
 
 // navigation
 export const navigation = [
@@ -147,11 +147,11 @@ export const testimonials = [
     authorText:
       ' Theater booking system  project. Java OOP (Object-Oriented Programming)',
     authorName: 'Autsadawut, Phattraporn, Theeraphat',
-    authorPosition: 'Fetch data from the database to show information about each user, such as movie showtimes, movie tickets. And send data to the database. Design UI user page using java swing.',
+    authorPosition: 'Fetch data from the database to show information about each user, such as movie showtimes, movie tickets. And send data to the database. Design UI user page using Netbeans.',
     href: 'https://github.com/Dewz10/Theater-booking-system-project-',
   },
   {
-    authorImg: <FiGithub />,
+    authorImg: TestiImage3,
     authorText:
       'Github',
     authorName: 'autsadawut.kl',
