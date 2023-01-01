@@ -2,7 +2,7 @@ import React, {useState, useEffect} from "react";
 
 import Nav from '../components/Nav';
 import NavMobile from '../components/NavMobile';
-import Socials from '../components/Socials';
+import Logo from '../assets/img/Untitled-2.png';
 
 const Header = () => {
     const [bg, setBg] = useState(false);
@@ -18,7 +18,7 @@ const Header = () => {
             <div className='container mx-auto h-full flex items-center justify-between'>
                 {/*logo*/}
                 <a href='#'>
-                   <p> Portfolio </p>
+                   <img src={Logo} alt=''/>
                 </a>
                 <div className='hidden lg:block'>
                     <Nav />

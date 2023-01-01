@@ -10,11 +10,13 @@ const Footer = () => {
                 {/*social icon*/}
                 <div className='flex'>
                     {social.map((item, index)=> {
-                        const {href, icon} = item;
+                        const {href, icon, title} = item;
                         return (
-                            <a className='text-accent texxt-base' href={href} key={index}>
-                                {icon}
-                            </a>
+                            <div>
+                                <a className='text-accent text-base' href={href} key={index}>
+                                    {title}
+                                </a>
+                            </div>
                         )
                     })}
                 </div>

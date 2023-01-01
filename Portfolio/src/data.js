@@ -66,6 +66,7 @@ export const social = [
   {
     icon: <FiGithub />,
     href: 'https://github.com/Dewz10',
+    title:'Github'
   },
 
 ];
