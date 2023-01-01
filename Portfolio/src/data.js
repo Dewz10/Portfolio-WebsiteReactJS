@@ -57,16 +57,12 @@ export const navigation = [
     href: 'about',
   },
   {
+    name: 'skills',
+    href: 'skills',
+  },
+  {
     name: 'portfolio',
     href: 'portfolio',
-  },
-  {
-    name: 'services',
-    href: 'services',
-  },
-  {
-    name: 'testimonials',
-    href: 'testimonials',
   },
   {
     name: 'contact',
@@ -77,21 +73,10 @@ export const navigation = [
 // social
 export const social = [
   {
-    icon: <FiYoutube />,
-    href: '',
-  },
-  {
-    icon: <FiInstagram />,
-    href: '',
-  },
-  {
     icon: <FiGithub />,
-    href: '',
+    href: 'https://github.com/Dewz10',
   },
-  {
-    icon: <FiDribbble />,
-    href: '',
-  },
+
 ];
 
 // companies

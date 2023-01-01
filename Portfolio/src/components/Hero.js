@@ -23,11 +23,11 @@ const Hero = () => {
               Kamphaeng Saen Campus. I'm interested in Full-Stack, Front-End and
               Mobile Application Dev.
             </p>
-            <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all">Resume</button>
+            
           </div>
           {/*right sild*/}
           <div className="hidden lg:flex flex-1 justify-end items-end">
-            <img src={ManImg} alt="" />
+            <img className="rounded-full h-96" src={ManImg} alt="" />
           </div>
         </div>
       </div>
