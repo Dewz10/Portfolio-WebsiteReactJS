@@ -8,6 +8,8 @@ import Interest from './components/Interest';
 import About from './components/About';
 import Skills from './components/Skills';
 import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -18,7 +20,9 @@ const App = () => {
       <About />
       <Skills />
       <Portfolio />
-      <div style={{height: '2000px'}}></div>
+      <Contact />
+      <Footer />
+      <div style={{height: 'auto'}}></div>
     </div>
   )
 };

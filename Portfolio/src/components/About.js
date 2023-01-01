@@ -26,7 +26,7 @@ const About = () => {
               I am currently a 3rd-year student at Kasetsart University Kamphaeng Saen Campus. I'm looking for an internship that allows me to apply my knowledge and experience to work. And I hope that I will be a part that can help further the organization. Because I think that the experience or opportunity gained from real work is a plus and a valuable thing. It is also a path that leads to further work in the future.
               </p>
             </div>
-            <button className="btn btn-md bg-accent hover:bg-accent-hover transition-all">Download Resume</button>
+            <a href="#" class="text-white bg-accent hover:bg-accent-hover focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Download Resume</a>
           </div>
         </div>
       </div>

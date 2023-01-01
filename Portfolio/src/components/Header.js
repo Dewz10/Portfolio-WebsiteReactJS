@@ -24,9 +24,7 @@ const Header = () => {
                     <Nav />
                 </div>
                 {/*socials*/}
-                <div className='hidden lg:block'>
-                    <Socials />
-                </div>
+                
                 {/*nav mobile*/}
                 <div className='lg:hidden'>
                     <NavMobile />

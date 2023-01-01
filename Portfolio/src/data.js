@@ -4,7 +4,7 @@ import {
   FiInstagram,
   FiGithub,
   FiDribbble,
-  FiLayout,
+  FiPhone,
   FiSettings,
   FiPenTool,
   FiTag,
@@ -16,15 +16,6 @@ import {
 import FullStackIcon from './assets/img/interest/full.png';
 import FrontEndIcon from './assets/img/interest/front.png';
 import MobileIcon from './assets/img/interest/mobile.png';
-
-
-// projects images
-import Project1 from './assets/img/projects/p1.webp';
-import Project2 from './assets/img/projects/p2.webp';
-import Project3 from './assets/img/projects/p3.webp';
-import Project4 from './assets/img/projects/p4.webp';
-import Project5 from './assets/img/projects/p5.webp';
-import Project6 from './assets/img/projects/p6.webp';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -42,9 +33,9 @@ import SkillImg12 from './assets/img/skills/mysql.png';
 import SkillImg13 from './assets/img/skills/git.png';
 
 // testimonial images
-import TestiImage1 from './assets/img/testimonials/testimonial-1.webp';
-import TestiImage2 from './assets/img/testimonials/testimonial-2.webp';
-import TestiImage3 from './assets/img/testimonials/testimonial-3.webp';
+import TestiImage1 from './assets/img/testimonials/testimonial-1.jpg';
+import TestiImage2 from './assets/img/testimonials/testimonial-2.jpg';
+import TestiImage3 from './assets/img/testimonials/testimonial-3.png';
 
 // navigation
 export const navigation = [
@@ -96,62 +87,6 @@ export const interests = [
   
 ];
 
-// projects
-export const projectsData = [
-  {
-    id: '1',
-    image: Project1,
-    name: 'project name 1',
-    category: 'UI/UX design',
-  },
-  {
-    id: '2',
-    image: Project2,
-    name: 'project name 2',
-    category: 'web development',
-  },
-  {
-    id: '3',
-    image: Project3,
-    name: 'project name 3',
-    category: 'UI/UX design',
-  },
-  {
-    id: '4',
-    image: Project4,
-    name: 'project name 4',
-    category: 'branding',
-  },
-  {
-    id: '5',
-    image: Project5,
-    name: 'project name 5',
-    category: 'web development',
-  },
-  {
-    id: '6',
-    image: Project6,
-    name: 'project name 6',
-    category: 'web development',
-  },
-];
-
-// projects
-export const projectsNav = [
-  {
-    name: 'all',
-  },
-  {
-    name: 'UI/UX Design',
-  },
-  {
-    name: 'web development',
-  },
-  {
-    name: 'branding',
-  },
-];
-
 // skill
 export const skills = [
   {
@@ -196,70 +131,51 @@ export const skills = [
 
 ];
 
-// services
-export const services = [
-  {
-    icon: <FiLayout />,
-    name: 'Web Design',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
-  },
-  {
-    icon: <FiSettings />,
-    name: 'Web Development',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
-  },
-  {
-    icon: <FiPenTool />,
-    name: 'Branding',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
-  },
-  {
-    icon: <FiTag />,
-    name: 'SEO',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
-  },
-];
-
 // testimonials
 export const testimonials = [
   {
     authorImg: TestiImage1,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      'Domestic water management system project. Database Systems Management (CRUD PHP).',
+    authorName: 'Autsadawut',
+    authorPosition: 'Create web applications in MVC format using PHP and Bootstrap.',
+    href: 'https://github.com/Dewz10/Domestic-water-management-system-project',
   },
   {
     authorImg: TestiImage2,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      ' Theater booking system  project. Java OOP (Object-Oriented Programming)',
+    authorName: 'Autsadawut, Phattraporn, Theeraphat',
+    authorPosition: 'Fetch data from the database to show information about each user, such as movie showtimes, movie tickets. And send data to the database. Design UI user page using java swing.',
+    href: 'https://github.com/Dewz10/Theater-booking-system-project-',
   },
   {
-    authorImg: TestiImage3,
+    authorImg: <FiGithub />,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      'Github',
+    authorName: 'autsadawut.kl',
+    authorPosition: '',
+    href: 'https://github.com/Dewz10',
   },
 ];
 
 // contact
 export const contact = [
   {
+    icon: <FiPhone />,
+    title: '098-087-0841',
+    subtitle: 'I am here to help you.',
+    description: 'Email me at hello@youremail.com',
+  },
+  {
     icon: <FiMail />,
-    title: 'Have a question?',
+    title: 'autsadawut.dew10@gmail.com',
     subtitle: 'I am here to help you.',
     description: 'Email me at hello@youremail.com',
   },
   {
     icon: <FiMapPin />,
-    title: 'Current Location',
+    title: 'Nakhon Pathom, 73000',
     subtitle: 'Bucharest, Romania',
     description: 'Serving clients worldwide',
   },
