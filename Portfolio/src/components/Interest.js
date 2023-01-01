@@ -4,7 +4,7 @@ import {interests} from '../data';
 
 const Interest = () => {
   return (
-    <section className='min-h-[1px] bg-tertiary flex items-center'>
+    <section className='min-h-[0px] bg-tertiary flex items-center'>
         
     </section>
   )

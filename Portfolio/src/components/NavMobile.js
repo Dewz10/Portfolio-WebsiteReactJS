@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import { navigatio, navigation } from "../data";
 
-import { XIcon } from "@heroicons/react/outline";
+import { MenuAlt4Icon, XIcon } from "@heroicons/react/outline";
 import { MenuAlt3Icon } from "@heroicons/react/outline";
 
 import Social from "./Socials";
@@ -43,16 +43,16 @@ const NavMobile = () => {
       {/*menu icon*/}
       <div
         onClick={() => setIsOpen(true)}
-        className="cursor-pointer text-white"
+        className="cursor-pointer text-paragraph"
       >
-        <MenuAlt3Icon className="w-8 h-8" />
+        <MenuAlt4Icon className="w-8 h-8" />
       </div>
       {/*circle*/}
       <motion.div
         variants={circleVariants}
         initial="hidden"
         animate={isOpen ? "visible" : "hidden"}
-        className="w-4 h-4 rounded-full bg-accent fixed top-0 right-0"
+        className="w-4 h-4 rounded-full bg-paragraph fixed top-0 right-0"
       ></motion.div>
       {/*menu*/}
       <motion.ul
@@ -76,7 +76,7 @@ const NavMobile = () => {
               <Link
                 to={item.href}
                 smooth={true}
-                duration={500}
+                duration={200}
                 offset={-70}
                 className="text-xl cursor-pointer"
               >

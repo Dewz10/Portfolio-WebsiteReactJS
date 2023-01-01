@@ -13,9 +13,9 @@ const Hero = () => {
           {/*left sild*/}
           <div className="flex-1 flex flex-col items-center lg:items-start">
             <p className="text-lg text-accent mb-[22px]">
-              Hello, I'm Autsadawut Klaymueang 👋
+              Hello, I'm Autsadawut Klaymueang
             </p>
-            <h1 className="text-2xl leading-[44px] md:text-3xl md:leading-tight lg:text-4xl lg:leading-[1.2] font-bold md:tracking-[-2px]">
+            <h1 className="text-paragraph text-2xl leading-[44px] md:text-3xl md:leading-tight lg:text-4xl lg:leading-[1.2] font-bold md:tracking-[-2px]">
               Computer Engineering
             </h1>
             <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left">

@@ -2,7 +2,7 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      primary: 'Playfair Display',
+      primary: 'system-ui',
       body: 'Work Sans',
     },
     container: {
@@ -26,14 +26,14 @@ module.exports = {
         contact: 'url("/src/assets/img/outline-text/contact.svg")',
       },
       colors: {
-        primary: '#050402',
-        secondary: '#1C1D24',
-        tertiary: '#131419',
+        primary: '#FFFFFF',
+        secondary: '#FFFFFF',
+        tertiary: '#FFFFFF',
         accent: {
-          DEFAULT: '#ac6b34',
-          hover: '#925a2b',
+          DEFAULT: '#0066CC',
+          hover: '#003399',
         },
-        paragraph: '#878e99',
+        paragraph: '#333333',
       },
     },
   },

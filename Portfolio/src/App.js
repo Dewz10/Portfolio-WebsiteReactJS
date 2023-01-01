@@ -20,7 +20,6 @@ const App = () => {
       <About />
       <Skills />
       <Portfolio />
-      <Contact />
       <Footer />
       <div style={{height: 'auto'}}></div>
     </div>

@@ -1,21 +1,21 @@
 import React from "react";
 
-import Image from "../assets/img/pro.jpg";
+import Image from "../assets/img/picture_about.jpg";
 
 const About = () => {
   return (
-    <section id="about" className="section bg-secondary">
-      <div className="container mx-auto">
+    <section id="about" className="section bg-secondary m-[20px] rounded-2xl">
+      <div className="container mx-auto rounded-3xl">
         <div className="flex flex-col xl:flex-row gap-24">
           <img
-            className="object-cover h-full w-[566px] md:mx-auto lg:mx-0 rounded-2xl"
+            className="object-cover h-full w-[566px] md:mx-auto lg:mx-0"
             src={Image}
             alt=""
           />
           <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
             <div className="flex flex-col">
-              <h2 className="text-3xl lg:text-4xl font-medium lg:font-extrabold md-3 before:content-about relative before:absolute before:opacity-40 before:-top-[2rem] before:hidden before:lg:block">
-                
+              <h2 className="text-paragraph text-3xl lg:text-4xl font-medium lg:font-extrabold md-3 before:content-about relative before:absolute before:opacity-40 before:-top-[2rem] before:hidden before:lg:block">
+                About
               </h2>
               <br></br>
               <br></br>

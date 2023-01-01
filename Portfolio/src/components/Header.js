@@ -2,7 +2,7 @@ import React, {useState, useEffect} from "react";
 
 import Nav from '../components/Nav';
 import NavMobile from '../components/NavMobile';
-import Logo from '../assets/img/Untitled-2.png';
+import Logo from '../assets/img/Untitled-1.png';
 
 const Header = () => {
     const [bg, setBg] = useState(false);

@@ -32,7 +32,7 @@ const Testimonials = () => {
                                 <img className='rounded-2xl' src={authorImg} alt=''/>
                             </div>
                             <div className='flex flex-col max-w-3xl'>
-                                <h5 className='font-body text-2xl mb-8 italic font-normal'>{authorText}</h5>
+                                <h5 className='text-paragraph font-body text-2xl mb-8 italic font-normal'>{authorText}</h5>
                                 <div>
                                     <p className='text-lg text-accent'>{authorName}</p>
                                     <p>{authorPosition}</p>
