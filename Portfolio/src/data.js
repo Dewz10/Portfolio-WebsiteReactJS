@@ -164,19 +164,16 @@ export const contact = [
   {
     icon: <FiPhone />,
     title: '098-087-0841',
-    subtitle: 'I am here to help you.',
-    description: 'Email me at hello@youremail.com',
+    
   },
   {
     icon: <FiMail />,
     title: 'autsadawut.dew10@gmail.com',
-    subtitle: 'I am here to help you.',
-    description: 'Email me at hello@youremail.com',
+    
   },
   {
     icon: <FiMapPin />,
     title: 'Nakhon Pathom, 73000',
-    subtitle: 'Bucharest, Romania',
-    description: 'Serving clients worldwide',
+    
   },
 ];
