@@ -4,18 +4,24 @@
 # Example
 
 # Home 👋
-![1672597913585](https://user-images.githubusercontent.com/108792146/210181388-d4348770-1586-4d63-985c-a58c6ee890c9.jpg)
+![1672638824813](https://user-images.githubusercontent.com/108792146/210198823-63ac2171-9f90-41b0-b579-e89cf2153af5.jpg)
 
 # About
-![1672597982534](https://user-images.githubusercontent.com/108792146/210181393-2bc783a7-3288-4f1d-a136-ad3f999d96a6.jpg)
+![1672638841327](https://user-images.githubusercontent.com/108792146/210198824-25b3944f-d6bd-4d09-9a63-dc7f88dbe662.jpg)
 
 # Skills
-![1672598014155](https://user-images.githubusercontent.com/108792146/210181398-2faba46a-8b81-48ed-a79d-1eb002db6af6.jpg)
-# -----------------------------------------------------------------------------------------------------------------------
-# -----------------------------------------------------------------------------------------------------------------------
+![1672638856414](https://user-images.githubusercontent.com/108792146/210198826-887cdb92-0a9c-485f-81b4-92464fd0431d.jpg)
+
 # Portfolio
-![1672598043095](https://user-images.githubusercontent.com/108792146/210181401-8a21b54a-b977-442b-81d6-e962f3dcefbb.jpg)
+![1672638886623](https://user-images.githubusercontent.com/108792146/210198827-706ffe21-4e28-42b1-b7dc-aaf6e054e8cf.jpg)
+# -------------------------------------------------------------
 
 # Contact
-![1672598069812](https://user-images.githubusercontent.com/108792146/210181403-f87b67b9-8116-4a43-a3e1-fb92ba80ddd3.jpg)
+![1672638907947](https://user-images.githubusercontent.com/108792146/210198828-a99f5974-e4c3-4f27-91f7-b791e8ae752a.jpg)
+
+# responsive
+![1672639134822](https://user-images.githubusercontent.com/108792146/210199028-f80e1082-4a78-4356-ba45-381793f4dcfa.jpg)
+![1672639163283](https://user-images.githubusercontent.com/108792146/210199031-94a3383f-a367-4a36-ae04-5ad084ce60a3.jpg)
+![1672639178405](https://user-images.githubusercontent.com/108792146/210199032-86dc4cfb-f67c-49aa-acaa-436de1c57fd7.jpg)
+![1672639202244](https://user-images.githubusercontent.com/108792146/210199035-7707e998-bef1-4d7c-b217-4cc8392b9d43.jpg)
 
