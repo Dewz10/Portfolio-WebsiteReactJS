@@ -4,20 +4,19 @@
 # Example
 
 # Home 👋
-![1672638824813](https://user-images.githubusercontent.com/108792146/210198823-63ac2171-9f90-41b0-b579-e89cf2153af5.jpg)
+![1672797748408](https://user-images.githubusercontent.com/108792146/210471337-bfbb3b34-98c8-4092-ae2b-0ac99541ccb4.jpg)
 
 # About
-![1672638841327](https://user-images.githubusercontent.com/108792146/210198824-25b3944f-d6bd-4d09-9a63-dc7f88dbe662.jpg)
+![1672797774245](https://user-images.githubusercontent.com/108792146/210471341-b52538ac-8dee-48da-8f96-b4483d60c269.jpg)
 
 # Skills
-![1672638856414](https://user-images.githubusercontent.com/108792146/210198826-887cdb92-0a9c-485f-81b4-92464fd0431d.jpg)
+![1672797795587](https://user-images.githubusercontent.com/108792146/210471344-b6c93db6-30ae-4eac-93e8-c4ad0de80c74.jpg)
 
 # Portfolio
-![1672638886623](https://user-images.githubusercontent.com/108792146/210198827-706ffe21-4e28-42b1-b7dc-aaf6e054e8cf.jpg)
-# -------------------------------------------------------------
+![1672797809482](https://user-images.githubusercontent.com/108792146/210471353-750d3936-e2f3-43aa-be45-2837cefd158d.jpg)
 
 # Contact
-![1672638907947](https://user-images.githubusercontent.com/108792146/210198828-a99f5974-e4c3-4f27-91f7-b791e8ae752a.jpg)
+![1672797827051](https://user-images.githubusercontent.com/108792146/210471356-e40c86ba-d033-47ba-b727-33fa256bae67.jpg)
 
 # responsive
 ![1672639134822](https://user-images.githubusercontent.com/108792146/210199028-f80e1082-4a78-4356-ba45-381793f4dcfa.jpg)
