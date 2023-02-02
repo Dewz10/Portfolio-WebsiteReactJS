@@ -1,6 +1,6 @@
 import React from "react";
 
-import ManImg from "../assets/img/2-25-267.jpg";
+import ManImg from "../assets/img/brands/99088.jpg";
 
 const Hero = () => {
   return (
@@ -27,7 +27,7 @@ const Hero = () => {
           </div>
           {/*right sild*/}
           <div className="hidden lg:flex flex-1 justify-end items-end">
-            <img className="rounded-full h-96" src={ManImg} alt="" />
+            <img className="rounded-3xl h-96" src={ManImg} alt="" />
           </div>
         </div>
       </div>
