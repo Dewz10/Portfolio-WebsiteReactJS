@@ -7,7 +7,7 @@
 ![1675332619869](https://user-images.githubusercontent.com/108792146/216296978-d0eb27aa-6eaa-4ce1-b776-9f0005eec397.jpg)
 
 # About
-![1672797774245](https://user-images.githubusercontent.com/108792146/210471341-b52538ac-8dee-48da-8f96-b4483d60c269.jpg)
+![1675333035789](https://user-images.githubusercontent.com/108792146/216297553-90fbc46a-d1a7-48f6-b753-3211b6acf79e.jpg)
 
 # Skills
 ![1672797795587](https://user-images.githubusercontent.com/108792146/210471344-b6c93db6-30ae-4eac-93e8-c4ad0de80c74.jpg)
