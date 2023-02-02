@@ -4,7 +4,7 @@
 # Example
 
 # Home 👋
-![1672797748408](https://user-images.githubusercontent.com/108792146/210471337-bfbb3b34-98c8-4092-ae2b-0ac99541ccb4.jpg)
+![1675332619869](https://user-images.githubusercontent.com/108792146/216296978-d0eb27aa-6eaa-4ce1-b776-9f0005eec397.jpg)
 
 # About
 ![1672797774245](https://user-images.githubusercontent.com/108792146/210471341-b52538ac-8dee-48da-8f96-b4483d60c269.jpg)
